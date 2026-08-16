@@ -21271,15 +21271,6 @@
     },
     {
       "type": "route",
-      "name": "Littleroot Town",
-      "encounters": [
-        "chikorita",
-        "cyndaquil",
-        "totodile"
-      ]
-    },
-    {
-      "type": "route",
       "name": "Route 101",
       "encounters": [
         "poochyena",
@@ -21326,16 +21317,6 @@
     },
     {
       "type": "route",
-      "name": "Petalburg City",
-      "encounters": [
-        "goldeen",
-        "magikarp",
-        "marill",
-        "corphish"
-      ]
-    },
-    {
-      "type": "route",
       "name": "Route 104",
       "encounters": [
         "magikarp",
@@ -21361,39 +21342,11 @@
       ]
     },
     {
-      "type": "route",
-      "name": "Rustboro City",
-      "encounters": [
-        "seedot",
-        "lileep",
-        "anorith"
-      ]
-    },
-    {
       "type": "gym",
       "name": "Rustboro Gym",
       "value": "1",
       "group": "gym-leader",
       "boss": "Roxanne"
-    },
-    {
-      "type": "gym",
-      "name": "Rustboro City",
-      "value": "r2",
-      "group": "rival",
-      "boss": "May"
-    },
-    {
-      "type": "route",
-      "name": "Route 105",
-      "encounters": [
-        "tentacool",
-        "magikarp",
-        "wingull",
-        "pelipper",
-        "wailmer",
-        "regice"
-      ]
     },
     {
       "type": "route",
@@ -21415,6 +21368,13 @@
       ]
     },
     {
+      "type": "gym",
+      "name": "Rustboro City",
+      "value": "r2",
+      "group": "rival",
+      "boss": "May"
+    },
+    {
       "type": "route",
       "name": "Dewford Town",
       "encounters": [
@@ -21422,13 +21382,6 @@
         "magikarp",
         "wailmer"
       ]
-    },
-    {
-      "type": "gym",
-      "name": "Dewford Gym",
-      "value": "2",
-      "group": "gym-leader",
-      "boss": "Brawly"
     },
     {
       "type": "route",
@@ -21457,6 +21410,24 @@
     {
       "type": "route",
       "name": "Route 107",
+      "encounters": [
+        "tentacool",
+        "magikarp",
+        "wingull",
+        "pelipper",
+        "wailmer"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Dewford Gym",
+      "value": "2",
+      "group": "gym-leader",
+      "boss": "Brawly"
+    },
+    {
+      "type": "route",
+      "name": "Route 109",
       "encounters": [
         "tentacool",
         "magikarp",
@@ -21501,21 +21472,6 @@
       "boss": "May"
     },
     {
-      "type": "route",
-      "name": "Altering Cave",
-      "encounters": [
-        "zubat",
-        "mareep",
-        "aipom",
-        "pineco",
-        "shuckle",
-        "teddiursa",
-        "houndour",
-        "stantler",
-        "smeargle"
-      ]
-    },
-    {
       "type": "gym",
       "name": "Mauville City",
       "value": "w1",
@@ -21546,6 +21502,40 @@
     },
     {
       "type": "route",
+      "name": "Route 118",
+      "encounters": [
+        "tentacool",
+        "goldeen",
+        "magikarp",
+        "zigzagoon",
+        "linoone",
+        "wingull",
+        "pelipper",
+        "electrike",
+        "manectric",
+        "carvanha",
+        "sharpedo",
+        "kecleon"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Route 111",
+      "encounters": [
+        "sandshrew",
+        "geodude",
+        "goldeen",
+        "magikarp",
+        "marill",
+        "trapinch",
+        "cacnea",
+        "barboach",
+        "baltoy",
+        "regirock"
+      ]
+    },
+    {
+      "type": "route",
       "name": "Route 112",
       "encounters": [
         "marill",
@@ -21553,11 +21543,16 @@
       ]
     },
     {
-      "type": "gym",
-      "name": "Mt. Chimney",
-      "value": "mt1",
-      "group": "evil-team",
-      "boss": "Tabitha"
+      "type": "route",
+      "name": "Fiery Path",
+      "encounters": [
+        "machop",
+        "grimer",
+        "koffing",
+        "slugma",
+        "numel",
+        "torkoal"
+      ]
     },
     {
       "type": "route",
@@ -21582,15 +21577,6 @@
         "swablu",
         "seviper",
         "barboach"
-      ]
-    },
-    {
-      "type": "route",
-      "name": "Desert Underpass",
-      "encounters": [
-        "ditto",
-        "whismur",
-        "loudred"
       ]
     },
     {
@@ -21623,6 +21609,13 @@
       ]
     },
     {
+      "type": "gym",
+      "name": "Mt. Chimney",
+      "value": "mt1",
+      "group": "evil-team",
+      "boss": "Tabitha"
+    },
+    {
       "type": "route",
       "name": "Jagged Pass",
       "encounters": [
@@ -21647,38 +21640,29 @@
     },
     {
       "type": "route",
-      "name": "Fiery Path",
-      "encounters": [
-        "machop",
-        "grimer",
-        "koffing",
-        "slugma",
-        "numel",
-        "torkoal"
-      ]
-    },
-    {
-      "type": "route",
-      "name": "Route 111",
-      "encounters": [
-        "sandshrew",
-        "geodude",
-        "goldeen",
-        "magikarp",
-        "marill",
-        "trapinch",
-        "cacnea",
-        "barboach",
-        "baltoy",
-        "regirock"
-      ]
-    },
-    {
-      "type": "route",
       "name": "Mirage Tower",
       "encounters": [
         "sandshrew",
         "trapinch"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Rustboro City",
+      "encounters": [
+        "seedot",
+        "lileep",
+        "anorith"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Petalburg City",
+      "encounters": [
+        "goldeen",
+        "magikarp",
+        "marill",
+        "corphish"
       ]
     },
     {
@@ -21687,6 +21671,18 @@
       "value": "5",
       "group": "gym-leader",
       "boss": "Norman"
+    },
+    {
+      "type": "route",
+      "name": "Route 105",
+      "encounters": [
+        "tentacool",
+        "magikarp",
+        "wingull",
+        "pelipper",
+        "wailmer",
+        "regice"
+      ]
     },
     {
       "type": "route",
@@ -21700,20 +21696,22 @@
     },
     {
       "type": "route",
-      "name": "Route 118",
+      "name": "Route 108",
       "encounters": [
         "tentacool",
-        "goldeen",
         "magikarp",
-        "zigzagoon",
-        "linoone",
         "wingull",
         "pelipper",
-        "electrike",
-        "manectric",
-        "carvanha",
-        "sharpedo",
-        "kecleon"
+        "wailmer"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Abandoned Ship",
+      "encounters": [
+        "tentacool",
+        "tentacruel",
+        "magikarp"
       ]
     },
     {
@@ -21730,7 +21728,6 @@
         "pelipper",
         "carvanha",
         "feebas",
-        "castform",
         "kecleon",
         "tropius"
       ]
@@ -21743,19 +21740,18 @@
       "boss": "Shelly"
     },
     {
+      "type": "route",
+      "name": "Weather Institute",
+      "encounters": [
+        "castform"
+      ]
+    },
+    {
       "type": "gym",
       "name": "Weather Institute",
       "value": "r4",
       "group": "rival",
       "boss": "May"
-    },
-    {
-      "type": "route",
-      "name": "Fortree City",
-      "encounters": [
-        "skitty",
-        "plusle"
-      ]
     },
     {
       "type": "route",
@@ -21772,6 +21768,14 @@
         "kecleon",
         "absol",
         "registeel"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Fortree City",
+      "encounters": [
+        "kecleon",
+        "plusle"
       ]
     },
     {
@@ -21796,6 +21800,18 @@
         "wailmer",
         "kecleon",
         "shuppet"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Lilycove City",
+      "encounters": [
+        "tentacool",
+        "staryu",
+        "magikarp",
+        "wingull",
+        "pelipper",
+        "wailmer"
       ]
     },
     {
@@ -21856,17 +21872,6 @@
     },
     {
       "type": "route",
-      "name": "Mt. Pyre",
-      "encounters": [
-        "vulpix",
-        "wingull",
-        "shuppet",
-        "duskull",
-        "chimecho"
-      ]
-    },
-    {
-      "type": "route",
       "name": "Route 123",
       "encounters": [
         "oddish",
@@ -21880,6 +21885,17 @@
         "wailmer",
         "kecleon",
         "shuppet"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Mt. Pyre",
+      "encounters": [
+        "vulpix",
+        "wingull",
+        "shuppet",
+        "duskull",
+        "chimecho"
       ]
     },
     {
@@ -21907,23 +21923,18 @@
       "boss": "Maxie"
     },
     {
-      "type": "route",
-      "name": "Lilycove City",
-      "encounters": [
-        "tentacool",
-        "staryu",
-        "magikarp",
-        "wingull",
-        "pelipper",
-        "wailmer"
-      ]
-    },
-    {
       "type": "gym",
       "name": "Lilycove City",
       "value": "r5",
       "group": "rival",
       "boss": "May"
+    },
+    {
+      "type": "route",
+      "name": "Team Aqua Hideout",
+      "encounters": [
+        "electrode"
+      ]
     },
     {
       "type": "gym",
@@ -21961,20 +21972,6 @@
       ]
     },
     {
-      "type": "gym",
-      "name": "Mossdeep City Gym",
-      "value": "7",
-      "group": "gym-leader",
-      "boss": "Tate & Liza"
-    },
-    {
-      "type": "gym",
-      "name": "Mossdeep Space Center",
-      "value": "mtmaxt",
-      "group": "evil-team",
-      "boss": "Maxie & Tabitha"
-    },
-    {
       "type": "route",
       "name": "Route 125",
       "encounters": [
@@ -22000,6 +21997,20 @@
       ]
     },
     {
+      "type": "gym",
+      "name": "Mossdeep City Gym",
+      "value": "7",
+      "group": "gym-leader",
+      "boss": "Tate & Liza"
+    },
+    {
+      "type": "gym",
+      "name": "Mossdeep Space Center",
+      "value": "mtmaxt",
+      "group": "evil-team",
+      "boss": "Maxie & Tabitha"
+    },
+    {
       "type": "route",
       "name": "Route 127",
       "encounters": [
@@ -22013,7 +22024,35 @@
     },
     {
       "type": "route",
+      "name": "Route 126",
+      "encounters": [
+        "tentacool",
+        "magikarp",
+        "chinchou",
+        "wingull",
+        "pelipper",
+        "sharpedo",
+        "wailmer",
+        "clamperl",
+        "relicanth"
+      ]
+    },
+    {
+      "type": "route",
       "name": "Route 128",
+      "encounters": [
+        "tentacool",
+        "magikarp",
+        "corsola",
+        "wingull",
+        "pelipper",
+        "wailmer",
+        "luvdisc"
+      ]
+    },
+    {
+      "type": "route",
+      "name": "Ever Grande City",
       "encounters": [
         "tentacool",
         "magikarp",
@@ -22051,34 +22090,12 @@
     },
     {
       "type": "route",
-      "name": "Route 126",
-      "encounters": [
-        "tentacool",
-        "magikarp",
-        "chinchou",
-        "wingull",
-        "pelipper",
-        "sharpedo",
-        "wailmer",
-        "clamperl",
-        "relicanth"
-      ]
-    },
-    {
-      "type": "route",
       "name": "Sootopolis City",
       "encounters": [
         "tentacool",
         "magikarp",
         "gyarados"
       ]
-    },
-    {
-      "type": "gym",
-      "name": "Sootopolis Gym",
-      "value": "8",
-      "group": "gym-leader",
-      "boss": "Juan"
     },
     {
       "type": "route",
@@ -22131,18 +22148,6 @@
     },
     {
       "type": "route",
-      "name": "Sky Pillar",
-      "encounters": [
-        "golbat",
-        "sableye",
-        "altaria",
-        "claydol",
-        "banette",
-        "rayquaza"
-      ]
-    },
-    {
-      "type": "route",
       "name": "Pacifidlog Town",
       "encounters": [
         "tentacool",
@@ -22151,44 +22156,6 @@
         "wingull",
         "pelipper",
         "sharpedo",
-        "wailmer"
-      ]
-    },
-    {
-      "type": "route",
-      "name": "Mirage Island",
-      "encounters": [
-        "wynaut"
-      ]
-    },
-    {
-      "type": "route",
-      "name": "Route 108",
-      "encounters": [
-        "tentacool",
-        "magikarp",
-        "wingull",
-        "pelipper",
-        "wailmer"
-      ]
-    },
-    {
-      "type": "route",
-      "name": "Abandoned Ship",
-      "encounters": [
-        "tentacool",
-        "tentacruel",
-        "magikarp"
-      ]
-    },
-    {
-      "type": "route",
-      "name": "Route 109",
-      "encounters": [
-        "tentacool",
-        "magikarp",
-        "wingull",
-        "pelipper",
         "wailmer"
       ]
     },
@@ -22233,15 +22200,27 @@
     },
     {
       "type": "route",
-      "name": "Ever Grande City",
+      "name": "Sky Pillar",
       "encounters": [
-        "tentacool",
-        "magikarp",
-        "corsola",
-        "wingull",
-        "pelipper",
-        "wailmer",
-        "luvdisc"
+        "golbat",
+        "sableye",
+        "altaria",
+        "claydol",
+        "banette"
+      ]
+    },
+    {
+      "type": "gym",
+      "name": "Sootopolis Gym",
+      "value": "8",
+      "group": "gym-leader",
+      "boss": "Juan"
+    },
+    {
+      "type": "route",
+      "name": "Sky Pillar",
+      "encounters": [
+        "rayquaza"
       ]
     },
     {
@@ -22314,21 +22293,6 @@
       "value": "c2",
       "group": "rival",
       "boss": "Steven"
-    },
-    {
-      "type": "route",
-      "name": "S.S. Tidal"
-    },
-    {
-      "type": "route",
-      "name": "Battle Frontier"
-    },
-    {
-      "type": "route",
-      "name": "Artisan Cave",
-      "encounters": [
-        "smeargle"
-      ]
     }
   ],
   "emkaizo": [
