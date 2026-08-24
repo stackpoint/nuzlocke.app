@@ -5,151 +5,117 @@
     "img": "/leaders/rs-roxanne",
     "pokemon": [
       {
-        "name": "geodude",
-        "level": "12",
+        "name": "ditto",
+        "level": "13",
         "moves": [
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tackle",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Defense Curl",
-            "effect": ""
-          },
-          {
-            "power": 50,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Throw",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Tomb",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Rock Head",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "74",
+        "sprite": "132",
         "types": [
-          "rock",
-          "ground"
+          "normal"
         ],
         "stats": {
-          "hp": 40,
-          "atk": 80,
-          "def": 100,
-          "spa": 30,
-          "spd": 30,
-          "spe": 20
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "geodude",
-        "level": "12",
+        "name": "ditto",
+        "level": "13",
         "moves": [
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tackle",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Defense Curl",
-            "effect": ""
-          },
-          {
-            "power": 50,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Throw",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Tomb",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Rock Head",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "74",
+        "sprite": "132",
         "types": [
-          "rock",
-          "ground"
+          "normal"
         ],
         "stats": {
-          "hp": 40,
-          "atk": 80,
-          "def": 100,
-          "spa": 30,
-          "spd": 30,
-          "spe": 20
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "nosepass",
-        "level": "15",
+        "name": "zoroark-hisui",
+        "level": "17",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Block",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Harden",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tackle",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Tomb",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Sturdy",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "299",
+        "sprite": "10239",
         "types": [
-          "rock"
+          "normal",
+          "ghost"
         ],
         "stats": {
-          "hp": 30,
-          "atk": 45,
-          "def": 135,
-          "spa": 45,
-          "spd": 90,
-          "spe": 30
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "17",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
@@ -160,153 +126,117 @@
     "img": "/leaders/rs-brawly",
     "pokemon": [
       {
-        "name": "machop",
-        "level": "16",
+        "name": "ditto",
+        "level": "18",
         "moves": [
           {
-            "power": 50,
-            "type": "fighting",
-            "damage_class": "physical",
-            "name": "Karate Chop",
-            "effect": ""
-          },
-          {
-            "type": "fighting",
-            "damage_class": "physical",
-            "name": "Low Kick",
-            "effect": ""
-          },
-          {
-            "type": "fighting",
-            "damage_class": "physical",
-            "name": "Seismic Toss",
-            "effect": ""
-          },
-          {
-            "type": "fighting",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Bulk Up",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Guts",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "66",
+        "sprite": "132",
         "types": [
-          "fighting"
+          "normal"
         ],
         "stats": {
-          "hp": 70,
-          "atk": 80,
-          "def": 50,
-          "spa": 35,
-          "spd": 35,
-          "spe": 35
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "meditite",
-        "level": "16",
+        "name": "ditto",
+        "level": "18",
         "moves": [
           {
-            "power": 150,
-            "type": "fighting",
-            "damage_class": "physical",
-            "name": "Focus Punch",
-            "effect": "",
-            "priority": -3
-          },
-          {
-            "type": "psychic",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Light Screen",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Reflect",
-            "effect": ""
-          },
-          {
-            "type": "fighting",
-            "damage_class": "status",
-            "name": "Bulk Up",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Pure Power",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "307",
+        "sprite": "132",
         "types": [
-          "fighting",
-          "psychic"
+          "normal"
         ],
         "stats": {
-          "hp": 30,
-          "atk": 40,
-          "def": 55,
-          "spa": 40,
-          "spd": 55,
-          "spe": 60
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "makuhita",
-        "level": "19",
+        "name": "zoroark-hisui",
+        "level": "21",
         "moves": [
           {
-            "power": 15,
-            "type": "fighting",
-            "damage_class": "physical",
-            "name": "Arm Thrust",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "fighting",
-            "damage_class": "physical",
-            "name": "Vital Throw",
-            "effect": "",
-            "priority": -1
-          },
-          {
-            "type": "fighting",
-            "damage_class": "physical",
-            "name": "Reversal",
-            "effect": ""
-          },
-          {
-            "type": "fighting",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Bulk Up",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Guts",
+          "name": "Illusion",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
-          "effect": ""
-        },
-        "sprite": "296",
+        "sprite": "10239",
         "types": [
-          "fighting"
+          "normal",
+          "ghost"
         ],
         "stats": {
-          "hp": 72,
-          "atk": 60,
-          "def": 30,
-          "spa": 20,
-          "spd": 30,
-          "spe": 25
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "21",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
@@ -317,204 +247,145 @@
     "img": "/leaders/rs-wattson",
     "pokemon": [
       {
-        "name": "voltorb",
-        "level": "20",
-        "moves": [
-          {
-            "power": 30,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rollout",
-            "effect": ""
-          },
-          {
-            "power": 65,
-            "type": "electric",
-            "damage_class": "special",
-            "name": "Spark",
-            "effect": ""
-          },
-          {
-            "power": 200,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Self-Destruct",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "electric",
-            "damage_class": "special",
-            "name": "Shock Wave",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Soundproof",
-          "effect": ""
-        },
-        "sprite": "100",
-        "types": [
-          "electric"
-        ],
-        "stats": {
-          "hp": 40,
-          "atk": 30,
-          "def": 50,
-          "spa": 55,
-          "spd": 55,
-          "spe": 100
-        }
-      },
-      {
-        "name": "electrike",
-        "level": "20",
-        "moves": [
-          {
-            "power": 60,
-            "type": "electric",
-            "damage_class": "special",
-            "name": "Shock Wave",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Leer",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Quick Attack",
-            "effect": "",
-            "priority": 1
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Howl",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Static",
-          "effect": ""
-        },
-        "sprite": "309",
-        "types": [
-          "electric"
-        ],
-        "stats": {
-          "hp": 40,
-          "atk": 45,
-          "def": 40,
-          "spa": 65,
-          "spd": 40,
-          "spe": 65
-        }
-      },
-      {
-        "name": "magneton",
+        "name": "ditto",
         "level": "22",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Supersonic",
-            "effect": ""
-          },
-          {
-            "type": "electric",
-            "damage_class": "status",
-            "name": "Thunder Wave",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "electric",
-            "damage_class": "special",
-            "name": "Shock Wave",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Sonic Boom",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Magnet Pull",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "82",
+        "sprite": "132",
         "types": [
-          "electric",
-          "steel"
+          "normal"
         ],
         "stats": {
-          "hp": 50,
-          "atk": 60,
-          "def": 95,
-          "spa": 120,
-          "spd": 70,
-          "spe": 70
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "manectric",
-        "level": "24",
+        "name": "ditto",
+        "level": "22",
         "moves": [
           {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Quick Attack",
-            "effect": "",
-            "priority": 1
-          },
-          {
-            "power": 60,
-            "type": "electric",
-            "damage_class": "special",
-            "name": "Shock Wave",
-            "effect": ""
-          },
-          {
-            "type": "electric",
-            "damage_class": "status",
-            "name": "Thunder Wave",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Howl",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Static",
+          "name": "Imposter",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
-          "effect": ""
-        },
-        "sprite": "310",
+        "sprite": "132",
         "types": [
-          "electric"
+          "normal"
         ],
         "stats": {
-          "hp": 70,
-          "atk": 75,
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "ditto",
+        "level": "24",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "26",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
           "def": 60,
-          "spa": 105,
+          "spa": 125,
           "spd": 60,
-          "spe": 105
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "26",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
@@ -525,202 +396,145 @@
     "img": "/leaders/rs-flannery",
     "pokemon": [
       {
-        "name": "numel",
-        "level": "24",
-        "moves": [
-          {
-            "power": 130,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Overheat",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Magnitude",
-            "effect": ""
-          },
-          {
-            "type": "fire",
-            "damage_class": "status",
-            "name": "Sunny Day",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Oblivious",
-          "effect": ""
-        },
-        "sprite": "322",
-        "types": [
-          "fire",
-          "ground"
-        ],
-        "stats": {
-          "hp": 60,
-          "atk": 60,
-          "def": 40,
-          "spa": 65,
-          "spd": 45,
-          "spe": 35
-        }
-      },
-      {
-        "name": "slugma",
-        "level": "24",
-        "moves": [
-          {
-            "power": 130,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Overheat",
-            "effect": ""
-          },
-          {
-            "power": 30,
-            "type": "poison",
-            "damage_class": "physical",
-            "name": "Smog",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Light Screen",
-            "effect": ""
-          },
-          {
-            "type": "fire",
-            "damage_class": "status",
-            "name": "Sunny Day",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Magma Armor",
-          "effect": ""
-        },
-        "sprite": "218",
-        "types": [
-          "fire"
-        ],
-        "stats": {
-          "hp": 40,
-          "atk": 40,
-          "def": 40,
-          "spa": 70,
-          "spd": 40,
-          "spe": 20
-        }
-      },
-      {
-        "name": "camerupt",
+        "name": "ditto",
         "level": "26",
         "moves": [
           {
-            "power": 130,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Overheat",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tackle",
-            "effect": ""
-          },
-          {
-            "type": "fire",
-            "damage_class": "status",
-            "name": "Sunny Day",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Attract",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Magma Armor",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "323",
+        "sprite": "132",
         "types": [
-          "fire",
-          "ground"
+          "normal"
         ],
         "stats": {
-          "hp": 70,
-          "atk": 100,
-          "def": 70,
-          "spa": 105,
-          "spd": 75,
-          "spe": 40
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "torkoal",
-        "level": "29",
+        "name": "ditto",
+        "level": "26",
         "moves": [
           {
-            "power": 130,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Overheat",
-            "effect": ""
-          },
-          {
-            "type": "fire",
-            "damage_class": "status",
-            "name": "Sunny Day",
-            "effect": ""
-          },
-          {
-            "power": 85,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Body Slam",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Attract",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "White Smoke",
+          "name": "Imposter",
           "effect": ""
         },
-        "held": {
-          "sprite": "white-herb",
-          "name": "White Herb",
-          "effect": ""
-        },
-        "sprite": "324",
+        "sprite": "132",
         "types": [
-          "fire"
+          "normal"
         ],
         "stats": {
-          "hp": 70,
-          "atk": 85,
-          "def": 140,
-          "spa": 85,
-          "spd": 70,
-          "spe": 20
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "ditto",
+        "level": "29",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "32",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "32",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
@@ -731,180 +545,97 @@
     "img": "/leaders/rs-norman",
     "pokemon": [
       {
-        "name": "spinda",
-        "level": "27",
+        "name": "ditto",
+        "level": "30",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Teeter Dance",
-            "effect": ""
-          },
-          {
-            "power": 65,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Psybeam",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Facade",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Encore",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Own Tempo",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "327",
+        "sprite": "132",
         "types": [
           "normal"
         ],
         "stats": {
-          "hp": 60,
-          "atk": 60,
-          "def": 60,
-          "spa": 60,
-          "spd": 60,
-          "spe": 60
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "vigoroth",
-        "level": "27",
+        "name": "ditto",
+        "level": "30",
         "moves": [
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Slash",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Facade",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Encore",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Feint Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Vital Spirit",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "288",
+        "sprite": "132",
         "types": [
           "normal"
         ],
         "stats": {
-          "hp": 80,
-          "atk": 80,
-          "def": 80,
-          "spa": 55,
-          "spd": 55,
-          "spe": 90
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "linoone",
-        "level": "29",
+        "name": "ditto",
+        "level": "32",
         "moves": [
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Slash",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Belly Drum",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Facade",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Headbutt",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Pickup",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "264",
+        "sprite": "132",
         "types": [
           "normal"
         ],
         "stats": {
-          "hp": 78,
-          "atk": 70,
-          "def": 61,
-          "spa": 50,
-          "spd": 61,
-          "spe": 100
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "slaking",
-        "level": "31",
+        "name": "zoroark-hisui",
+        "level": "34",
         "moves": [
-          {
-            "type": "fighting",
-            "damage_class": "physical",
-            "name": "Counter",
-            "effect": "",
-            "priority": -5
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Yawn",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Facade",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Feint Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
@@ -912,22 +643,47 @@
           "name": "Truant",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
-          "effect": ""
-        },
-        "sprite": "289",
+        "sprite": "10239",
         "types": [
-          "normal"
+          "normal",
+          "ghost"
         ],
         "stats": {
-          "hp": 150,
-          "atk": 160,
-          "def": 100,
-          "spa": 95,
-          "spd": 65,
-          "spe": 100
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "34",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Truant",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
@@ -938,255 +694,173 @@
     "img": "/leaders/rs-winona",
     "pokemon": [
       {
-        "name": "swablu",
-        "level": "29",
+        "name": "ditto",
+        "level": "32",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Perish Song",
-            "effect": ""
-          },
-          {
-            "type": "flying",
-            "damage_class": "status",
-            "name": "Mirror Move",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Safeguard",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Natural Cure",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "333",
+        "sprite": "132",
         "types": [
-          "normal",
-          "flying"
+          "normal"
         ],
         "stats": {
-          "hp": 45,
-          "atk": 40,
-          "def": 60,
-          "spa": 40,
-          "spd": 75,
-          "spe": 50
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "tropius",
-        "level": "29",
+        "name": "ditto",
+        "level": "32",
         "moves": [
           {
-            "type": "fire",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Sunny Day",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
-            "effect": ""
-          },
-          {
-            "power": 120,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Solar Beam",
-            "effect": ""
-          },
-          {
-            "type": "grass",
-            "damage_class": "status",
-            "name": "Synthesis",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Chlorophyll",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "357",
+        "sprite": "132",
         "types": [
-          "grass",
-          "flying"
+          "normal"
         ],
         "stats": {
-          "hp": 99,
-          "atk": 68,
-          "def": 83,
-          "spa": 72,
-          "spd": 87,
-          "spe": 51
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "pelipper",
-        "level": "30",
-        "moves": [
-          {
-            "power": 40,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Gun",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Supersonic",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Protect",
-            "effect": "",
-            "priority": 4
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Keen Eye",
-          "effect": ""
-        },
-        "sprite": "279",
-        "types": [
-          "water",
-          "flying"
-        ],
-        "stats": {
-          "hp": 60,
-          "atk": 50,
-          "def": 100,
-          "spa": 95,
-          "spd": 70,
-          "spe": 65
-        }
-      },
-      {
-        "name": "skarmory",
-        "level": "31",
-        "moves": [
-          {
-            "type": "ground",
-            "damage_class": "status",
-            "name": "Sand Attack",
-            "effect": ""
-          },
-          {
-            "power": 15,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Fury Attack",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "steel",
-            "damage_class": "physical",
-            "name": "Steel Wing",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Keen Eye",
-          "effect": ""
-        },
-        "sprite": "227",
-        "types": [
-          "steel",
-          "flying"
-        ],
-        "stats": {
-          "hp": 65,
-          "atk": 80,
-          "def": 140,
-          "spa": 40,
-          "spd": 70,
-          "spe": 70
-        }
-      },
-      {
-        "name": "altaria",
+        "name": "ditto",
         "level": "33",
         "moves": [
           {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dragon",
-            "damage_class": "special",
-            "name": "Dragon Breath",
-            "effect": ""
-          },
-          {
-            "type": "dragon",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Dragon Dance",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Natural Cure",
+          "name": "Imposter",
           "effect": ""
         },
-        "held": {
-          "sprite": "oran-berry",
-          "name": "Oran Berry",
-          "effect": ""
-        },
-        "sprite": "334",
+        "sprite": "132",
         "types": [
-          "dragon",
-          "flying"
+          "normal"
         ],
         "stats": {
-          "hp": 75,
-          "atk": 70,
-          "def": 90,
-          "spa": 70,
-          "spd": 105,
-          "spe": 80
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "ditto",
+        "level": "34",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "36",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "36",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
@@ -1197,209 +871,146 @@
     "img": "/leaders/rs-tate-liza",
     "pokemon": [
       {
-        "name": "claydol",
-        "level": "41",
+        "name": "ditto",
+        "level": "45",
         "moves": [
           {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Ancient Power",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Psychic",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Light Screen",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Levitate",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "344",
+        "sprite": "132",
         "types": [
-          "ground",
-          "psychic"
+          "normal"
         ],
         "stats": {
-          "hp": 60,
-          "atk": 70,
-          "def": 105,
-          "spa": 70,
-          "spd": 120,
-          "spe": 75
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "xatu",
-        "level": "41",
+        "name": "ditto",
+        "level": "45",
         "moves": [
           {
-            "power": 90,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Psychic",
-            "effect": ""
-          },
-          {
-            "type": "fire",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Sunny Day",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
-            "damage_class": "status",
-            "name": "Confuse Ray",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Calm Mind",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Synchronize",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "178",
+        "sprite": "132",
         "types": [
-          "psychic",
-          "flying"
+          "normal"
         ],
         "stats": {
-          "hp": 65,
-          "atk": 75,
-          "def": 70,
-          "spa": 95,
-          "spd": 70,
-          "spe": 95
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "lunatone",
-        "level": "42",
+        "name": "zoroark-hisui",
+        "level": "46",
         "moves": [
           {
-            "type": "psychic",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Light Screen",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Psychic",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Hypnosis",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Calm Mind",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Levitate",
+          "name": "Illusion",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
-          "effect": ""
-        },
-        "sprite": "337",
+        "sprite": "10239",
         "types": [
-          "rock",
-          "psychic"
+          "normal",
+          "ghost"
         ],
         "stats": {
-          "hp": 90,
-          "atk": 55,
-          "def": 65,
-          "spa": 95,
-          "spd": 85,
-          "spe": 70
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       },
       {
-        "name": "solrock",
-        "level": "42",
+        "name": "zoroark-hisui",
+        "level": "46",
         "moves": [
           {
-            "type": "fire",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Sunny Day",
-            "effect": ""
-          },
-          {
-            "power": 120,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Solar Beam",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Psychic",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Flamethrower",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Levitate",
+          "name": "Illusion",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
-          "effect": ""
-        },
-        "sprite": "338",
+        "sprite": "10239",
         "types": [
-          "rock",
-          "psychic"
+          "normal",
+          "ghost"
         ],
         "stats": {
-          "hp": 90,
-          "atk": 95,
-          "def": 85,
-          "spa": 55,
-          "spd": 65,
-          "spe": 70
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "46",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ],
@@ -1411,252 +1022,173 @@
     "img": "/leaders/rs-juan",
     "pokemon": [
       {
-        "name": "luvdisc",
-        "level": "41",
+        "name": "ditto",
+        "level": "45",
         "moves": [
           {
-            "power": 60,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Pulse",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Attract",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Sweet Kiss",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Flail",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Swift Swim",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "370",
+        "sprite": "132",
         "types": [
-          "water"
+          "normal"
         ],
         "stats": {
-          "hp": 43,
-          "atk": 30,
-          "def": 55,
-          "spa": 40,
-          "spd": 65,
-          "spe": 97
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "whiscash",
-        "level": "41",
+        "name": "ditto",
+        "level": "45",
         "moves": [
           {
-            "type": "water",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Rain Dance",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Pulse",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Amnesia",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Oblivious",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "340",
+        "sprite": "132",
         "types": [
-          "water",
-          "ground"
+          "normal"
         ],
         "stats": {
-          "hp": 110,
-          "atk": 78,
-          "def": 73,
-          "spa": 76,
-          "spd": 71,
-          "spe": 60
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "sealeo",
-        "level": "43",
+        "name": "ditto",
+        "level": "47",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Encore",
-            "effect": ""
-          },
-          {
-            "power": 85,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Body Slam",
-            "effect": ""
-          },
-          {
-            "power": 65,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Aurora Beam",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Pulse",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Thick Fat",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "364",
+        "sprite": "132",
         "types": [
-          "ice",
-          "water"
+          "normal"
         ],
         "stats": {
-          "hp": 90,
-          "atk": 60,
-          "def": 70,
-          "spa": 75,
-          "spd": 70,
-          "spe": 45
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "crawdaunt",
-        "level": "43",
+        "name": "ditto",
+        "level": "47",
         "moves": [
-          {
-            "power": 60,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Pulse",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Crabhammer",
-            "effect": ""
-          },
-          {
-            "type": "dark",
-            "damage_class": "status",
-            "name": "Taunt",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Leer",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Hyper Cutter",
+          "name": "Imposter",
           "effect": ""
         },
-        "sprite": "342",
+        "sprite": "132",
         "types": [
-          "water",
-          "dark"
+          "normal"
         ],
         "stats": {
-          "hp": 63,
-          "atk": 120,
-          "def": 85,
-          "spa": 90,
-          "spd": 55,
-          "spe": 55
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
         }
       },
       {
-        "name": "kingdra",
-        "level": "46",
+        "name": "zoroark-hisui",
+        "level": "51",
         "moves": [
-          {
-            "power": 60,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Pulse",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Double Team",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Ice Beam",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Rest",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Swift Swim",
+          "name": "Illusion",
           "effect": ""
         },
-        "held": {
-          "sprite": "chesto-berry",
-          "name": "Chesto Berry",
-          "effect": ""
-        },
-        "sprite": "230",
+        "sprite": "10239",
         "types": [
-          "water",
-          "dragon"
+          "normal",
+          "ghost"
         ],
         "stats": {
-          "hp": 75,
-          "atk": 95,
-          "def": 95,
-          "spa": 95,
-          "spd": 95,
-          "spe": 85
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "51",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
@@ -5156,304 +4688,172 @@
     "img": "/leaders/rs-wallace",
     "pokemon": [
       {
-        "name": "wailord",
-        "level": "57",
-        "moves": [
-          {
-            "type": "water",
-            "damage_class": "status",
-            "name": "Rain Dance",
-            "effect": ""
-          },
-          {
-            "power": 150,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Spout",
-            "effect": ""
-          },
-          {
-            "power": 120,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Double-Edge",
-            "effect": ""
-          },
-          {
-            "power": 110,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Blizzard",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Water Veil",
-          "effect": ""
-        },
-        "sprite": "321",
-        "types": [
-          "water"
-        ],
-        "stats": {
-          "hp": 170,
-          "atk": 90,
-          "def": 45,
-          "spa": 90,
-          "spd": 45,
-          "spe": 60
-        }
-      },
-      {
-        "name": "tentacruel",
-        "level": "55",
-        "moves": [
-          {
-            "type": "poison",
-            "damage_class": "status",
-            "name": "Toxic",
-            "effect": ""
-          },
-          {
-            "power": 110,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Hydro Pump",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "poison",
-            "damage_class": "physical",
-            "name": "Sludge Bomb",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Ice Beam",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Clear Body",
-          "effect": ""
-        },
-        "sprite": "73",
-        "types": [
-          "water",
-          "poison"
-        ],
-        "stats": {
-          "hp": 80,
-          "atk": 70,
-          "def": 65,
-          "spa": 80,
-          "spd": 120,
-          "spe": 100
-        }
-      },
-      {
-        "name": "ludicolo",
-        "level": "56",
-        "moves": [
-          {
-            "power": 75,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Giga Drain",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Surf",
-            "effect": ""
-          },
-          {
-            "type": "grass",
-            "damage_class": "status",
-            "name": "Leech Seed",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Double Team",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Swift Swim",
-          "effect": ""
-        },
-        "sprite": "272",
-        "types": [
-          "water",
-          "grass"
-        ],
-        "stats": {
-          "hp": 80,
-          "atk": 70,
-          "def": 70,
-          "spa": 90,
-          "spd": 100,
-          "spe": 70
-        }
-      },
-      {
-        "name": "whiscash",
-        "level": "56",
-        "moves": [
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Surf",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Amnesia",
-            "effect": ""
-          },
-          {
-            "power": 150,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Hyper Beam",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Oblivious",
-          "effect": ""
-        },
-        "sprite": "340",
-        "types": [
-          "water",
-          "ground"
-        ],
-        "stats": {
-          "hp": 110,
-          "atk": 78,
-          "def": 73,
-          "spa": 76,
-          "spd": 71,
-          "spe": 60
-        }
-      },
-      {
-        "name": "gyarados",
-        "level": "56",
-        "moves": [
-          {
-            "type": "dragon",
-            "damage_class": "status",
-            "name": "Dragon Dance",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
-            "effect": ""
-          },
-          {
-            "power": 150,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Hyper Beam",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Surf",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Intimidate",
-          "effect": ""
-        },
-        "sprite": "130",
-        "types": [
-          "water",
-          "flying"
-        ],
-        "stats": {
-          "hp": 95,
-          "atk": 125,
-          "def": 79,
-          "spa": 60,
-          "spd": 100,
-          "spe": 81
-        }
-      },
-      {
-        "name": "milotic",
-        "level": "58",
+        "name": "ditto",
+        "level": "63",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Recover",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Surf",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Ice Beam",
-            "effect": ""
-          },
-          {
-            "type": "poison",
-            "damage_class": "status",
-            "name": "Toxic",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Marvel Scale",
+          "name": "Imposter",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
-          "effect": ""
-        },
-        "sprite": "350",
+        "sprite": "132",
         "types": [
-          "water"
+          "normal"
         ],
         "stats": {
-          "hp": 95,
-          "atk": 60,
-          "def": 79,
-          "spa": 100,
-          "spd": 125,
-          "spe": 81
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "ditto",
+        "level": "61",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "ditto",
+        "level": "62",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "ditto",
+        "level": "62",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "ditto",
+        "level": "62",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "64",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
