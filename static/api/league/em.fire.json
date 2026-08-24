@@ -1,7 +1,7 @@
 {
   "1": {
     "name": "Roxanne",
-    "speciality": "rock",
+    "speciality": "",
     "img": "/leaders/rs-roxanne",
     "pokemon": [
       {
@@ -156,7 +156,7 @@
   },
   "2": {
     "name": "Brawly",
-    "speciality": "fighting",
+    "speciality": "",
     "img": "/leaders/rs-brawly",
     "pokemon": [
       {
@@ -313,7 +313,7 @@
   },
   "3": {
     "name": "Wattson",
-    "speciality": "electric",
+    "speciality": "",
     "img": "/leaders/rs-wattson",
     "pokemon": [
       {
@@ -521,7 +521,7 @@
   },
   "4": {
     "name": "Flannery",
-    "speciality": "fire",
+    "speciality": "",
     "img": "/leaders/rs-flannery",
     "pokemon": [
       {
@@ -727,7 +727,7 @@
   },
   "5": {
     "name": "Norman",
-    "speciality": "normal",
+    "speciality": "",
     "img": "/leaders/rs-norman",
     "pokemon": [
       {
@@ -934,7 +934,7 @@
   },
   "6": {
     "name": "Winona",
-    "speciality": "flying",
+    "speciality": "",
     "img": "/leaders/rs-winona",
     "pokemon": [
       {
@@ -1193,7 +1193,7 @@
   },
   "7": {
     "name": "Tate & Liza",
-    "speciality": "psychic",
+    "speciality": "",
     "img": "/leaders/rs-tate-liza",
     "pokemon": [
       {
@@ -1407,7 +1407,7 @@
   },
   "8": {
     "name": "Juan",
-    "speciality": "water",
+    "speciality": "",
     "img": "/leaders/rs-juan",
     "pokemon": [
       {
@@ -2056,6 +2056,127 @@
           "spa": 30,
           "spd": 40,
           "spe": 55
+        }
+      }
+    ]
+  },
+  "mtmax0": {
+    "name": "Maxie",
+    "speciality": "",
+    "img": "/leaders/rs-maxie",
+    "pokemon": [
+      {
+        "name": "ditto",
+        "level": "30",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "ditto",
+        "level": "30",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Imposter",
+          "effect": ""
+        },
+        "sprite": "132",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 48,
+          "atk": 48,
+          "def": 48,
+          "spa": 48,
+          "spd": 48,
+          "spe": 48
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "31",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
+        }
+      },
+      {
+        "name": "zoroark-hisui",
+        "level": "31",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "10239",
+        "types": [
+          "normal",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 100,
+          "def": 60,
+          "spa": 125,
+          "spd": 60,
+          "spe": 110
         }
       }
     ]
@@ -4000,7 +4121,7 @@
   },
   "e1": {
     "name": "Sidney",
-    "speciality": "dark",
+    "speciality": "",
     "img": "/leaders/rs-sidney",
     "pokemon": [
       {
@@ -4257,7 +4378,7 @@
   },
   "e2": {
     "name": "Phoebe",
-    "speciality": "ghost",
+    "speciality": "",
     "img": "/leaders/rs-phoebe",
     "pokemon": [
       {
@@ -4514,7 +4635,7 @@
   },
   "e3": {
     "name": "Glacia",
-    "speciality": "ice",
+    "speciality": "",
     "img": "/leaders/rs-glacia",
     "pokemon": [
       {
@@ -4768,7 +4889,7 @@
   },
   "e4": {
     "name": "Drake",
-    "speciality": "dragon",
+    "speciality": "",
     "img": "/leaders/rs-drake",
     "pokemon": [
       {
@@ -5031,7 +5152,7 @@
   },
   "c1": {
     "name": "Wallace",
-    "speciality": "water",
+    "speciality": "",
     "img": "/leaders/rs-wallace",
     "pokemon": [
       {
@@ -5339,7 +5460,7 @@
   },
   "c2": {
     "name": "Steven",
-    "speciality": "rock",
+    "speciality": "",
     "img": "/leaders/rs-steven",
     "pokemon": [
       {

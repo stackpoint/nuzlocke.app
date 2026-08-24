@@ -21616,6 +21616,13 @@
       "boss": "Tabitha"
     },
     {
+      "type": "gym",
+      "name": "Mt. Chimney",
+      "value": "mtmax0",
+      "group": "evil-team",
+      "boss": "Maxie"
+    },
+    {
       "type": "route",
       "name": "Jagged Pass",
       "encounters": [
@@ -22254,42 +22261,42 @@
     },
     {
       "type": "gym",
-      "name": "Pokémon League",
+      "name": "Elite Four",
       "value": "e1",
-      "group": "elite-four",
+      "group": "rival",
       "boss": "Sidney"
     },
     {
       "type": "gym",
-      "name": "Pokémon League",
+      "name": "Elite Four",
       "value": "e2",
-      "group": "elite-four",
+      "group": "rival",
       "boss": "Phoebe"
     },
     {
       "type": "gym",
-      "name": "Pokémon League",
+      "name": "Elite Four",
       "value": "e3",
-      "group": "elite-four",
+      "group": "rival",
       "boss": "Glacia"
     },
     {
       "type": "gym",
-      "name": "Pokémon League",
+      "name": "Elite Four",
       "value": "e4",
-      "group": "elite-four",
+      "group": "rival",
       "boss": "Drake"
     },
     {
       "type": "gym",
-      "name": "Pokémon League Champion",
+      "name": "League Champion",
       "value": "c1",
       "group": "elite-four",
       "boss": "Wallace"
     },
     {
       "type": "gym",
-      "name": "Meteor Falls Champion",
+      "name": "Meteor Falls",
       "value": "c2",
       "group": "rival",
       "boss": "Steven"
