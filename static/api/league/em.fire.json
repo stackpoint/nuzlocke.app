@@ -1205,31 +1205,17 @@
     "pokemon": [
       {
         "name": "numel",
-        "level": "18",
+        "level": "25",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Growl",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tackle",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Ember",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Oblivious",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "322",
@@ -1248,36 +1234,17 @@
       },
       {
         "name": "poochyena",
-        "level": "20",
+        "level": "28",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Howl",
-            "effect": ""
-          },
-          {
-            "type": "ground",
-            "damage_class": "status",
-            "name": "Sand Attack",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Odor Sleuth",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Run Away",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "261",
@@ -1295,37 +1262,17 @@
       },
       {
         "name": "numel",
-        "level": "22",
+        "level": "30",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Growl",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tackle",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Ember",
-            "effect": ""
-          },
-          {
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Magnitude",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Oblivious",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "322",
@@ -1344,38 +1291,46 @@
       },
       {
         "name": "zubat",
-        "level": "22",
+        "level": "30",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Supersonic",
-            "effect": ""
-          },
-          {
-            "power": 30,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Astonish",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Wing Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "41",
+        "types": [
+          "poison",
+          "flying"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 45,
+          "def": 35,
+          "spa": 30,
+          "spd": 40,
+          "spe": 55
+        }
+      },
+      {
+        "name": "zubat",
+        "level": "30",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "41",
@@ -1401,37 +1356,17 @@
     "pokemon": [
       {
         "name": "numel",
-        "level": "26",
+        "level": "35",
         "moves": [
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tackle",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Ember",
-            "effect": ""
-          },
-          {
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Magnitude",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Focus Energy",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Oblivious",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "322",
@@ -1450,37 +1385,17 @@
       },
       {
         "name": "mightyena",
-        "level": "28",
+        "level": "38",
         "moves": [
           {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Odor Sleuth",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -1498,37 +1413,17 @@
       },
       {
         "name": "camerupt",
-        "level": "33",
+        "level": "45",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Focus Energy",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Amnesia",
-            "effect": ""
-          },
-          {
-            "power": 75,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Slide",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Magma Armor",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "323",
@@ -1547,38 +1442,46 @@
       },
       {
         "name": "zubat",
-        "level": "30",
+        "level": "41",
         "moves": [
           {
-            "power": 30,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Astonish",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Confuse Ray",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Wing Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "41",
+        "types": [
+          "poison",
+          "flying"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 45,
+          "def": 35,
+          "spa": 30,
+          "spd": 40,
+          "spe": 55
+        }
+      },
+      {
+        "name": "zubat",
+        "level": "41",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "41",
@@ -1603,159 +1506,18 @@
     "img": "/leaders/rs-maxie",
     "pokemon": [
       {
-        "name": "ditto",
-        "level": "30",
-        "moves": [
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Transform",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Imposter",
-          "effect": ""
-        },
-        "sprite": "132",
-        "types": [
-          "normal"
-        ],
-        "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
-        }
-      },
-      {
-        "name": "ditto",
-        "level": "30",
-        "moves": [
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Transform",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Imposter",
-          "effect": ""
-        },
-        "sprite": "132",
-        "types": [
-          "normal"
-        ],
-        "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
-        }
-      },
-      {
-        "name": "zoroark-hisui",
-        "level": "31",
-        "moves": [
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Transform",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Illusion",
-          "effect": ""
-        },
-        "sprite": "10239",
-        "types": [
-          "normal",
-          "ghost"
-        ],
-        "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
-        }
-      },
-      {
-        "name": "zoroark-hisui",
-        "level": "31",
-        "moves": [
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Transform",
-            "effect": ""
-          }
-        ],
-        "ability": {
-          "name": "Illusion",
-          "effect": ""
-        },
-        "sprite": "10239",
-        "types": [
-          "normal",
-          "ghost"
-        ],
-        "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
-        }
-      }
-    ]
-  },
-  "mtmax": {
-    "name": "Maxie",
-    "speciality": "",
-    "img": "/leaders/rs-maxie",
-    "pokemon": [
-      {
         "name": "mightyena",
-        "level": "37",
+        "level": "30",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Scary Face",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -1773,38 +1535,17 @@
       },
       {
         "name": "crobat",
-        "level": "38",
+        "level": "30",
         "moves": [
           {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Confuse Ray",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Wing Attack",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Air Cutter",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "169",
@@ -1823,38 +1564,168 @@
       },
       {
         "name": "camerupt",
-        "level": "39",
+        "level": "31",
         "moves": [
           {
-            "power": 90,
             "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
             "damage_class": "status",
-            "name": "Amnesia",
-            "effect": ""
-          },
-          {
-            "power": 75,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Slide",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Magma Armor",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "323",
+        "types": [
+          "fire",
+          "ground"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 100,
+          "def": 70,
+          "spa": 105,
+          "spd": 75,
+          "spe": 40
+        }
+      },
+      {
+        "name": "camerupt",
+        "level": "31",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "323",
+        "types": [
+          "fire",
+          "ground"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 100,
+          "def": 70,
+          "spa": 105,
+          "spd": 75,
+          "spe": 40
+        }
+      }
+    ]
+  },
+  "mtmax": {
+    "name": "Maxie",
+    "speciality": "",
+    "img": "/leaders/rs-maxie",
+    "pokemon": [
+      {
+        "name": "mightyena",
+        "level": "43",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "262",
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 90,
+          "def": 70,
+          "spa": 60,
+          "spd": 60,
+          "spe": 70
+        }
+      },
+      {
+        "name": "crobat",
+        "level": "44",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "169",
+        "types": [
+          "poison",
+          "flying"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 90,
+          "def": 80,
+          "spa": 70,
+          "spd": 80,
+          "spe": 130
+        }
+      },
+      {
+        "name": "camerupt",
+        "level": "45",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "323",
+        "types": [
+          "fire",
+          "ground"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 100,
+          "def": 70,
+          "spa": 105,
+          "spd": 75,
+          "spe": 40
+        }
+      },
+      {
+        "name": "camerupt",
+        "level": "45",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "323",
@@ -1880,37 +1751,17 @@
     "pokemon": [
       {
         "name": "mightyena",
-        "level": "42",
+        "level": "48",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Scary Face",
-            "effect": ""
-          },
-          {
-            "type": "dark",
-            "damage_class": "status",
-            "name": "Taunt",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -1928,37 +1779,17 @@
       },
       {
         "name": "crobat",
-        "level": "43",
+        "level": "49",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Mean Look",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
-            "damage_class": "status",
-            "name": "Confuse Ray",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Wing Attack",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Air Cutter",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "169",
@@ -1977,38 +1808,17 @@
       },
       {
         "name": "camerupt",
-        "level": "44",
+        "level": "50",
         "moves": [
           {
-            "power": 90,
             "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
             "damage_class": "status",
-            "name": "Amnesia",
-            "effect": ""
-          },
-          {
-            "power": 75,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Slide",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Magma Armor",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "323",
@@ -2027,37 +1837,17 @@
       },
       {
         "name": "camerupt",
-        "level": "36",
+        "level": "41",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Focus Energy",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Amnesia",
-            "effect": ""
-          },
-          {
-            "power": 75,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Slide",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Oblivious",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "323",
@@ -2076,37 +1866,17 @@
       },
       {
         "name": "mightyena",
-        "level": "38",
+        "level": "43",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Scary Face",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -2124,38 +1894,17 @@
       },
       {
         "name": "golbat",
-        "level": "40",
+        "level": "46",
         "moves": [
           {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Confuse Ray",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Wing Attack",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Air Cutter",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "42",
@@ -2181,36 +1930,17 @@
     "pokemon": [
       {
         "name": "carvanha",
-        "level": "28",
+        "level": "35",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Focus Energy",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Scary Face",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Crunch",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Screech",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Rough Skin",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "318",
@@ -2229,37 +1959,45 @@
       },
       {
         "name": "mightyena",
-        "level": "28",
+        "level": "35",
         "moves": [
           {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Odor Sleuth",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "262",
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 90,
+          "def": 70,
+          "spa": 60,
+          "spd": 60,
+          "spe": 70
+        }
+      },
+      {
+        "name": "mightyena",
+        "level": "35",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -2284,37 +2022,17 @@
     "pokemon": [
       {
         "name": "sharpedo",
-        "level": "37",
+        "level": "50",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Scary Face",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Crunch",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Screech",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Slash",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Rough Skin",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "319",
@@ -2333,37 +2051,45 @@
       },
       {
         "name": "mightyena",
-        "level": "37",
+        "level": "50",
         "moves": [
           {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Scary Face",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "262",
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 90,
+          "def": 70,
+          "spa": 60,
+          "spd": 60,
+          "spe": 70
+        }
+      },
+      {
+        "name": "mightyena",
+        "level": "50",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -2388,37 +2114,17 @@
     "pokemon": [
       {
         "name": "sharpedo",
-        "level": "37",
+        "level": "45",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Scary Face",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Crunch",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Screech",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Slash",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Rough Skin",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "319",
@@ -2437,36 +2143,17 @@
       },
       {
         "name": "mightyena",
-        "level": "34",
+        "level": "41",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Odor Sleuth",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Scary Face",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -2484,38 +2171,46 @@
       },
       {
         "name": "golbat",
-        "level": "34",
+        "level": "41",
         "moves": [
           {
-            "power": 30,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Astonish",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Confuse Ray",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Wing Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "42",
+        "types": [
+          "poison",
+          "flying"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 80,
+          "def": 70,
+          "spa": 65,
+          "spd": 75,
+          "spe": 90
+        }
+      },
+      {
+        "name": "golbat",
+        "level": "41",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "42",
@@ -2541,37 +2236,17 @@
     "pokemon": [
       {
         "name": "mightyena",
-        "level": "41",
+        "level": "48",
         "moves": [
           {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Scary Face",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -2589,38 +2264,17 @@
       },
       {
         "name": "golbat",
-        "level": "41",
+        "level": "48",
         "moves": [
           {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Bite",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Confuse Ray",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Air Cutter",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Wing Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "42",
@@ -2639,36 +2293,46 @@
       },
       {
         "name": "sharpedo",
-        "level": "43",
+        "level": "50",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Screech",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Slash",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
-            "effect": ""
-          },
-          {
-            "type": "dark",
-            "damage_class": "status",
-            "name": "Taunt",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Rough Skin",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "319",
+        "types": [
+          "water",
+          "dark"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 120,
+          "def": 40,
+          "spa": 95,
+          "spd": 40,
+          "spe": 95
+        }
+      },
+      {
+        "name": "sharpedo",
+        "level": "50",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "319",
@@ -2694,37 +2358,45 @@
     "pokemon": [
       {
         "name": "ralts",
-        "level": "16",
+        "level": "25",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Growl",
+            "name": "Transform",
             "effect": ""
-          },
-          {
-            "power": 50,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Confusion",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Double Team",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Teleport",
-            "effect": "",
-            "priority": -6
           }
         ],
         "ability": {
-          "name": "Synchronize",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "280",
+        "types": [
+          "psychic"
+        ],
+        "stats": {
+          "hp": 28,
+          "atk": 25,
+          "def": 25,
+          "spa": 45,
+          "spd": 35,
+          "spe": 40
+        }
+      },
+	  {
+        "name": "ralts",
+        "level": "25",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "280",
@@ -2749,37 +2421,17 @@
     "pokemon": [
       {
         "name": "altaria",
-        "level": "44",
+        "level": "62",
         "moves": [
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Safeguard",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dragon",
-            "damage_class": "special",
-            "name": "Dragon Breath",
-            "effect": ""
-          },
-          {
-            "type": "dragon",
-            "damage_class": "status",
-            "name": "Dragon Dance",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Natural Cure",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "334",
@@ -2798,36 +2450,17 @@
       },
       {
         "name": "delcatty",
-        "level": "43",
+        "level": "60",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Sing",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Assist",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Charm",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Feint Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Cute Charm",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "301",
@@ -2845,37 +2478,17 @@
       },
       {
         "name": "roselia",
-        "level": "44",
+        "level": "62",
         "moves": [
           {
-            "power": 60,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Magical Leaf",
-            "effect": ""
-          },
-          {
-            "type": "grass",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Leech Seed",
-            "effect": ""
-          },
-          {
-            "power": 75,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Giga Drain",
-            "effect": ""
-          },
-          {
-            "type": "poison",
-            "damage_class": "status",
-            "name": "Toxic",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Poison Point",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "315",
@@ -2894,37 +2507,17 @@
       },
       {
         "name": "magneton",
-        "level": "41",
+        "level": "57",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Supersonic",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "electric",
-            "damage_class": "special",
-            "name": "Thunderbolt",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tri Attack",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Screech",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Magnet Pull",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "82",
@@ -2943,37 +2536,45 @@
       },
       {
         "name": "gardevoir",
-        "level": "45",
+        "level": "63",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Double Team",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Calm Mind",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Psychic",
-            "effect": ""
-          },
-          {
-            "power": 120,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Future Sight",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Synchronize",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "sprite": "282",
+        "types": [
+          "psychic"
+        ],
+        "stats": {
+          "hp": 68,
+          "atk": 65,
+          "def": 65,
+          "spa": 125,
+          "spd": 115,
+          "spe": 80
+        }
+      },
+      {
+        "name": "gardevoir",
+        "level": "63",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "282",
@@ -2998,24 +2599,46 @@
     "pokemon": [
       {
         "name": "mudkip",
-        "level": "5",
+        "level": "16",
         "moves": [
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Tackle",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Growl",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Torrent",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "starter": "fire",
+        "sprite": "258",
+        "types": [
+          "water"
+        ],
+        "stats": {
+          "hp": 50,
+          "atk": 70,
+          "def": 50,
+          "spa": 50,
+          "spd": 50,
+          "spe": 40
+        }
+      },
+	  {
+        "name": "mudkip",
+        "level": "16",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3040,36 +2663,22 @@
     "img": "/leaders/rs-may",
     "pokemon": [
       {
-        "name": "torkoal",
-        "level": "13",
+        "name": "slugma",
+        "level": "17",
         "moves": [
           {
-            "type": "???",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Curse",
-            "effect": ""
-          },
-          {
-            "power": 30,
-            "type": "poison",
-            "damage_class": "physical",
-            "name": "Smog",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Ember",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Flame Body",
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
-        "sprite": "324",
+        "sprite": "218",
         "types": [
           "fire"
         ],
@@ -3084,38 +2693,46 @@
       },
       {
         "name": "mudkip",
-        "level": "15",
+        "level": "20",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Growl",
+            "name": "Transform",
             "effect": ""
-          },
-          {
-            "power": 20,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Mud-Slap",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Gun",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Bide",
-            "effect": "",
-            "priority": 1
           }
         ],
         "ability": {
-          "name": "Torrent",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "starter": "fire",
+        "sprite": "258",
+        "types": [
+          "water"
+        ],
+        "stats": {
+          "hp": 50,
+          "atk": 70,
+          "def": 50,
+          "spa": 50,
+          "spd": 50,
+          "spe": 40
+        }
+      },
+      {
+        "name": "mudkip",
+        "level": "20",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3141,37 +2758,17 @@
     "pokemon": [
       {
         "name": "lombre",
-        "level": "18",
+        "level": "23",
         "moves": [
           {
-            "power": 30,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Astonish",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Growl",
-            "effect": ""
-          },
-          {
-            "power": 20,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Absorb",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Nature Power",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Swift Swim",
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3191,38 +2788,17 @@
       },
       {
         "name": "slugma",
-        "level": "18",
+        "level": "23",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Yawn",
-            "effect": ""
-          },
-          {
-            "power": 30,
-            "type": "poison",
-            "damage_class": "physical",
-            "name": "Smog",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Ember",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Tomb",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Flame Body",
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3241,38 +2817,47 @@
       },
       {
         "name": "marshtomp",
-        "level": "20",
+        "level": "25",
         "moves": [
-          {
-            "power": 40,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Gun",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Bide",
-            "effect": "",
-            "priority": 1
-          },
-          {
-            "power": 55,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Mud Shot",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Foresight",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Torrent",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "starter": "fire",
+        "sprite": "259",
+        "types": [
+          "water",
+          "ground"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 85,
+          "def": 70,
+          "spa": 60,
+          "spd": 70,
+          "spe": 50
+        }
+      },
+      {
+        "name": "marshtomp",
+        "level": "25",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3299,39 +2884,17 @@
     "pokemon": [
       {
         "name": "lombre",
-        "level": "29",
+        "level": "33",
         "moves": [
-          {
-            "power": 20,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Absorb",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Fake Out",
-            "effect": "",
-            "priority": 3
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Nature Power",
-            "effect": ""
-          },
-          {
-            "power": 18,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Fury Swipes",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Swift Swim",
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3351,37 +2914,17 @@
       },
       {
         "name": "slugma",
-        "level": "29",
+        "level": "33",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Harden",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Amnesia",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Ember",
-            "effect": ""
-          },
-          {
-            "power": 50,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Throw",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Flame Body",
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3400,37 +2943,47 @@
       },
       {
         "name": "marshtomp",
-        "level": "31",
+        "level": "35",
         "moves": [
           {
-            "power": 55,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Mud Shot",
-            "effect": ""
-          },
-          {
-            "type": "ground",
-            "damage_class": "status",
-            "name": "Mud Sport",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Foresight",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Torrent",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "starter": "fire",
+        "sprite": "259",
+        "types": [
+          "water",
+          "ground"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 85,
+          "def": 70,
+          "spa": 60,
+          "spd": 70,
+          "spe": 50
+        }
+      },
+      {
+        "name": "marshtomp",
+        "level": "35",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3457,38 +3010,17 @@
     "pokemon": [
       {
         "name": "tropius",
-        "level": "31",
+        "level": "41",
         "moves": [
           {
-            "power": 65,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Stomp",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Sweet Scent",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Whirlwind",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "power": 60,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Magical Leaf",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Chlorophyll",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "357",
@@ -3507,37 +3039,17 @@
       },
       {
         "name": "ludicolo",
-        "level": "32",
+        "level": "42",
         "moves": [
           {
-            "power": 30,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Astonish",
-            "effect": ""
-          },
-          {
-            "power": 20,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Absorb",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Growl",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Nature Power",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Swift Swim",
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3557,37 +3069,17 @@
       },
       {
         "name": "slugma",
-        "level": "32",
+        "level": "42",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Harden",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Amnesia",
-            "effect": ""
-          },
-          {
-            "power": 40,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Ember",
-            "effect": ""
-          },
-          {
-            "power": 50,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Throw",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Flame Body",
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3606,37 +3098,47 @@
       },
       {
         "name": "marshtomp",
-        "level": "34",
+        "level": "45",
         "moves": [
           {
-            "power": 55,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Mud Shot",
-            "effect": ""
-          },
-          {
-            "type": "ground",
-            "damage_class": "status",
-            "name": "Mud Sport",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Foresight",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Take Down",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Torrent",
+          "name": "Illusion",
+          "effect": ""
+        },
+        "starter": "fire",
+        "sprite": "259",
+        "types": [
+          "water",
+          "ground"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 85,
+          "def": 70,
+          "spa": 60,
+          "spd": 70,
+          "spe": 50
+        }
+      },
+      {
+        "name": "marshtomp",
+        "level": "45",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "starter": "fire",
@@ -3663,38 +3165,17 @@
     "pokemon": [
       {
         "name": "mightyena",
-        "level": "46",
+        "level": "59",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Roar",
-            "effect": "",
-            "priority": -6
-          },
-          {
-            "power": 120,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Double-Edge",
-            "effect": ""
-          },
-          {
-            "type": "ground",
-            "damage_class": "status",
-            "name": "Sand Attack",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Crunch",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "262",
@@ -3712,36 +3193,17 @@
       },
       {
         "name": "shiftry",
-        "level": "48",
+        "level": "62",
         "moves": [
           {
-            "type": "dark",
-            "damage_class": "status",
-            "name": "Torment",
-            "effect": ""
-          },
-          {
             "type": "normal",
             "damage_class": "status",
-            "name": "Double Team",
-            "effect": ""
-          },
-          {
-            "type": "normal",
-            "damage_class": "status",
-            "name": "Swagger",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Extrasensory",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Chlorophyll",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "275",
@@ -3760,37 +3222,17 @@
       },
       {
         "name": "cacturne",
-        "level": "46",
+        "level": "59",
         "moves": [
           {
-            "type": "grass",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Leech Seed",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Feint Attack",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Needle Arm",
-            "effect": ""
-          },
-          {
-            "type": "grass",
-            "damage_class": "status",
-            "name": "Cotton Spore",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Sand Veil",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "332",
@@ -3809,38 +3251,17 @@
       },
       {
         "name": "crawdaunt",
-        "level": "48",
+        "level": "62",
         "moves": [
-          {
-            "power": 90,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Surf",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Swords Dance",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Strength",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Facade",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Hyper Cutter",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "342",
@@ -3859,43 +3280,45 @@
       },
       {
         "name": "absol",
-        "level": "49",
+        "level": "63",
         "moves": [
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
-            "effect": ""
-          },
-          {
-            "power": 75,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Slide",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Swords Dance",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Slash",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Pressure",
+          "name": "Illusion",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
+        "sprite": "359",
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 130,
+          "def": 60,
+          "spa": 75,
+          "spd": 60,
+          "spe": 75
+        }
+      },
+      {
+        "name": "absol",
+        "level": "63",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "359",
@@ -3920,37 +3343,17 @@
     "pokemon": [
       {
         "name": "dusclops",
-        "level": "48",
+        "level": "60",
         "moves": [
-          {
-            "power": 60,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Shadow Punch",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
-            "damage_class": "status",
-            "name": "Confuse Ray",
-            "effect": ""
-          },
-          {
-            "type": "???",
-            "damage_class": "status",
-            "name": "Curse",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Protect",
-            "effect": "",
-            "priority": 4
+            "name": "Transform",
+            "effect": ""
           }
         ],
         "ability": {
-          "name": "Pressure",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "356",
@@ -3968,37 +3371,17 @@
       },
       {
         "name": "banette",
-        "level": "49",
+        "level": "61",
         "moves": [
           {
-            "power": 80,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Shadow Ball",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Grudge",
-            "effect": ""
-          },
-          {
-            "type": "fire",
-            "damage_class": "status",
-            "name": "Will-O-Wisp",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Feint Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Insomnia",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "354",
@@ -4016,37 +3399,17 @@
       },
       {
         "name": "sableye",
-        "level": "50",
+        "level": "62",
         "moves": [
-          {
-            "power": 80,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Shadow Ball",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Double Team",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Night Shade",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Feint Attack",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Keen Eye",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "302",
@@ -4065,39 +3428,17 @@
       },
       {
         "name": "banette",
-        "level": "49",
+        "level": "61",
         "moves": [
           {
-            "power": 80,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Shadow Ball",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Psychic",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "electric",
-            "damage_class": "special",
-            "name": "Thunderbolt",
-            "effect": ""
-          },
-          {
-            "power": 70,
             "type": "normal",
-            "damage_class": "physical",
-            "name": "Facade",
+            "damage_class": "status",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Insomnia",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "354",
@@ -4115,44 +3456,45 @@
       },
       {
         "name": "dusclops",
-        "level": "51",
+        "level": "63",
         "moves": [
           {
-            "power": 80,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Shadow Ball",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Ice Beam",
-            "effect": ""
-          },
-          {
-            "power": 75,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Slide",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Pressure",
+          "name": "Illusion",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
+        "sprite": "356",
+        "types": [
+          "ghost"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 70,
+          "def": 130,
+          "spa": 60,
+          "spd": 130,
+          "spe": 25
+        }
+      },
+      {
+        "name": "dusclops",
+        "level": "63",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "356",
@@ -4177,37 +3519,17 @@
     "pokemon": [
       {
         "name": "sealeo",
-        "level": "50",
+        "level": "60",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Encore",
-            "effect": ""
-          },
-          {
-            "power": 85,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Body Slam",
-            "effect": ""
-          },
-          {
-            "type": "ice",
-            "damage_class": "status",
-            "name": "Hail",
-            "effect": ""
-          },
-          {
-            "power": 30,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Ice Ball",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Thick Fat",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "364",
@@ -4226,38 +3548,17 @@
       },
       {
         "name": "glalie",
-        "level": "50",
+        "level": "60",
         "moves": [
           {
-            "type": "psychic",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Light Screen",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Crunch",
-            "effect": ""
-          },
-          {
-            "power": 55,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Icy Wind",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Ice Beam",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "362",
@@ -4275,35 +3576,19 @@
       },
       {
         "name": "sealeo",
-        "level": "52",
+        "level": "62",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Attract",
-            "effect": ""
-          },
-          {
-            "power": 120,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Double-Edge",
-            "effect": ""
-          },
-          {
-            "type": "ice",
-            "damage_class": "status",
-            "name": "Hail",
-            "effect": ""
-          },
-          {
-            "power": 110,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Blizzard",
+            "name": "Transform",
             "effect": ""
           }
         ],
+        "ability": {
+          "name": "Illusion",
+          "effect": ""
+        },
         "sprite": "364",
         "types": [
           "ice",
@@ -4320,38 +3605,17 @@
       },
       {
         "name": "glalie",
-        "level": "52",
+        "level": "62",
         "moves": [
           {
-            "power": 80,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Shadow Ball",
-            "effect": ""
-          },
-          {
-            "power": 250,
             "type": "normal",
-            "damage_class": "physical",
-            "name": "Explosion",
-            "effect": ""
-          },
-          {
-            "type": "ice",
             "damage_class": "status",
-            "name": "Hail",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Ice Beam",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Inner Focus",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "362",
@@ -4369,43 +3633,46 @@
       },
       {
         "name": "walrein",
-        "level": "53",
+        "level": "63",
         "moves": [
           {
-            "power": 90,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Surf",
-            "effect": ""
-          },
-          {
-            "power": 85,
             "type": "normal",
-            "damage_class": "physical",
-            "name": "Body Slam",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Ice Beam",
-            "effect": ""
-          },
-          {
-            "type": "ice",
-            "damage_class": "special",
-            "name": "Sheer Cold",
+            "damage_class": "status",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Thick Fat",
+          "name": "Illusion",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
+        "sprite": "365",
+        "types": [
+          "ice",
+          "water"
+        ],
+        "stats": {
+          "hp": 110,
+          "atk": 80,
+          "def": 90,
+          "spa": 95,
+          "spd": 90,
+          "spe": 65
+        }
+      },
+      {
+        "name": "walrein",
+        "level": "63",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "365",
@@ -4431,39 +3698,17 @@
     "pokemon": [
       {
         "name": "shelgon",
-        "level": "52",
+        "level": "60",
         "moves": [
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Tomb",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dragon",
-            "damage_class": "special",
-            "name": "Dragon Claw",
-            "effect": ""
-          },
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Protect",
-            "effect": "",
-            "priority": 4
-          },
-          {
-            "power": 120,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Double-Edge",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Rock Head",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "372",
@@ -4481,38 +3726,17 @@
       },
       {
         "name": "altaria",
-        "level": "54",
+        "level": "62",
         "moves": [
           {
-            "power": 120,
             "type": "normal",
-            "damage_class": "physical",
-            "name": "Double-Edge",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dragon",
-            "damage_class": "special",
-            "name": "Dragon Breath",
-            "effect": ""
-          },
-          {
-            "type": "dragon",
             "damage_class": "status",
-            "name": "Dragon Dance",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Natural Cure",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "334",
@@ -4531,37 +3755,17 @@
       },
       {
         "name": "kingdra",
-        "level": "53",
+        "level": "61",
         "moves": [
           {
             "type": "normal",
             "damage_class": "status",
-            "name": "Smokescreen",
-            "effect": ""
-          },
-          {
-            "type": "dragon",
-            "damage_class": "status",
-            "name": "Dragon Dance",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Surf",
-            "effect": ""
-          },
-          {
-            "power": 85,
-            "type": "normal",
-            "damage_class": "physical",
-            "name": "Body Slam",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Swift Swim",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "230",
@@ -4580,39 +3784,17 @@
       },
       {
         "name": "flygon",
-        "level": "53",
+        "level": "61",
         "moves": [
           {
-            "power": 90,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Flamethrower",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Crunch",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "dragon",
-            "damage_class": "special",
-            "name": "Dragon Breath",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Levitate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "330",
@@ -4631,44 +3813,46 @@
       },
       {
         "name": "salamence",
-        "level": "55",
+        "level": "63",
         "moves": [
           {
-            "power": 90,
-            "type": "fire",
-            "damage_class": "special",
-            "name": "Flamethrower",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dragon",
-            "damage_class": "special",
-            "name": "Dragon Claw",
-            "effect": ""
-          },
-          {
-            "power": 75,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Rock Slide",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dark",
-            "damage_class": "special",
-            "name": "Crunch",
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Intimidate",
+          "name": "Illusion",
           "effect": ""
         },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
+        "sprite": "373",
+        "types": [
+          "dragon",
+          "flying"
+        ],
+        "stats": {
+          "hp": 95,
+          "atk": 135,
+          "def": 80,
+          "spa": 110,
+          "spd": 80,
+          "spe": 100
+        }
+      },
+      {
+        "name": "salamence",
+        "level": "63",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "373",
@@ -4876,34 +4060,14 @@
         "level": "77",
         "moves": [
           {
-            "type": "poison",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Toxic",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
-            "effect": ""
-          },
-          {
-            "type": "ground",
-            "damage_class": "status",
-            "name": "Spikes",
-            "effect": ""
-          },
-          {
-            "power": 70,
-            "type": "steel",
-            "damage_class": "physical",
-            "name": "Steel Wing",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Keen Eye",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "227",
@@ -4925,34 +4089,14 @@
         "level": "75",
         "moves": [
           {
-            "type": "psychic",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Reflect",
-            "effect": ""
-          },
-          {
-            "type": "psychic",
-            "damage_class": "status",
-            "name": "Light Screen",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Ancient Power",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Levitate",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "344",
@@ -4974,36 +4118,14 @@
         "level": "76",
         "moves": [
           {
-            "power": 110,
-            "type": "electric",
-            "damage_class": "special",
-            "name": "Thunder",
-            "effect": ""
-          },
-          {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
-            "effect": ""
-          },
-          {
-            "power": 120,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Solar Beam",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "dragon",
-            "damage_class": "special",
-            "name": "Dragon Claw",
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Sturdy",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "306",
@@ -5025,34 +4147,14 @@
         "level": "76",
         "moves": [
           {
-            "power": 75,
-            "type": "grass",
-            "damage_class": "special",
-            "name": "Giga Drain",
-            "effect": ""
-          },
-          {
-            "type": "grass",
+            "type": "normal",
             "damage_class": "status",
-            "name": "Ingrain",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Ancient Power",
-            "effect": ""
-          },
-          {
-            "type": "ghost",
-            "damage_class": "status",
-            "name": "Confuse Ray",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Suction Cups",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "346",
@@ -5074,36 +4176,14 @@
         "level": "76",
         "moves": [
           {
-            "power": 60,
-            "type": "water",
-            "damage_class": "special",
-            "name": "Water Pulse",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "rock",
-            "damage_class": "physical",
-            "name": "Ancient Power",
-            "effect": ""
-          },
-          {
-            "power": 60,
-            "type": "flying",
-            "damage_class": "physical",
-            "name": "Aerial Ace",
-            "effect": ""
-          },
-          {
-            "power": 70,
             "type": "normal",
-            "damage_class": "physical",
-            "name": "Slash",
+            "damage_class": "status",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Battle Armor",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "348",
@@ -5125,41 +4205,14 @@
         "level": "78",
         "moves": [
           {
-            "power": 100,
-            "type": "ground",
-            "damage_class": "physical",
-            "name": "Earthquake",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "psychic",
-            "damage_class": "special",
-            "name": "Psychic",
-            "effect": ""
-          },
-          {
-            "power": 90,
-            "type": "steel",
-            "damage_class": "physical",
-            "name": "Meteor Mash",
-            "effect": ""
-          },
-          {
-            "power": 80,
-            "type": "ghost",
-            "damage_class": "physical",
-            "name": "Shadow Ball",
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Transform",
             "effect": ""
           }
         ],
         "ability": {
-          "name": "Clear Body",
-          "effect": ""
-        },
-        "held": {
-          "sprite": "sitrus-berry",
-          "name": "Sitrus Berry",
+          "name": "Illusion",
           "effect": ""
         },
         "sprite": "376",
