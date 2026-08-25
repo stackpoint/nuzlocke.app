@@ -118,7 +118,8 @@
           "spe": 30
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "2": {
     "name": "Brawly",
@@ -238,7 +239,8 @@
           "spe": 25
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "3": {
     "name": "Wattson",
@@ -386,7 +388,8 @@
           "spe": 105
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "4": {
     "name": "Flannery",
@@ -535,7 +538,8 @@
           "spe": 20
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "5": {
     "name": "Norman",
@@ -682,7 +686,8 @@
           "spe": 100
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "6": {
     "name": "Winona",
@@ -863,7 +868,8 @@
           "spe": 80
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "7": {
     "name": "Tate & Liza",
@@ -1196,7 +1202,8 @@
           "spe": 85
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "mt1": {
     "name": "Tabitha",
@@ -1347,7 +1354,8 @@
           "spe": 55
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "mt2": {
     "name": "Tabitha",
@@ -1498,7 +1506,8 @@
           "spe": 55
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "mtmax0": {
     "name": "Maxie",
@@ -1620,7 +1629,8 @@
           "spe": 40
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "mtmax": {
     "name": "Maxie",
@@ -1742,7 +1752,8 @@
           "spe": 40
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "mtmaxt": {
     "name": "Maxie & Tabitha",
@@ -1921,7 +1932,8 @@
           "spe": 90
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "as1": {
     "name": "Shelly",
@@ -2013,7 +2025,8 @@
           "spe": 70
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "as2": {
     "name": "Shelly",
@@ -2105,7 +2118,8 @@
           "spe": 70
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "am1": {
     "name": "Matt",
@@ -2227,7 +2241,8 @@
           "spe": 90
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "aqarc": {
     "name": "Archie",
@@ -2349,7 +2364,8 @@
           "spe": 95
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "w1": {
     "name": "Wally",
@@ -2412,7 +2428,8 @@
           "spe": 40
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "w2": {
     "name": "Wally",
@@ -2590,7 +2607,8 @@
           "spe": 80
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "r1": {
     "name": "May",
@@ -2655,7 +2673,8 @@
           "spe": 40
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "r2": {
     "name": "May",
@@ -2749,7 +2768,8 @@
           "spe": 40
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "r3": {
     "name": "May",
@@ -2875,7 +2895,8 @@
           "spe": 50
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "r4": {
     "name": "May",
@@ -3001,7 +3022,8 @@
           "spe": 50
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "r5": {
     "name": "May",
@@ -3156,7 +3178,8 @@
           "spe": 50
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "e1": {
     "name": "Sidney",
@@ -3334,7 +3357,8 @@
           "spe": 75
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "e2": {
     "name": "Phoebe",
@@ -3510,7 +3534,8 @@
           "spe": 25
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "e3": {
     "name": "Glacia",
@@ -3689,7 +3714,8 @@
           "spe": 65
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "e4": {
     "name": "Drake",
@@ -3869,7 +3895,8 @@
           "spe": 100
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "c1": {
     "name": "Wallace",
@@ -4048,7 +4075,8 @@
           "spe": 81
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   },
   "c2": {
     "name": "Steven",
@@ -4229,6 +4257,7 @@
           "spe": 70
         }
       }
-    ]
+    ],
+    "doubleBattle": true
   }
 }
