@@ -5,7 +5,7 @@
     "img": "/leaders/rs-roxanne",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "geodude",
         "level": "13",
         "moves": [
           {
@@ -16,24 +16,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "74",
         "types": [
-          "normal"
+          "rock",
+          "ground"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 40,
+          "atk": 80,
+          "def": 100,
+          "spa": 30,
+          "spd": 30,
+          "spe": 20
         }
       },
       {
-        "name": "ditto",
+        "name": "geodude",
         "level": "13",
         "moves": [
           {
@@ -44,24 +45,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "74",
         "types": [
-          "normal"
+          "rock",
+          "ground"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 40,
+          "atk": 80,
+          "def": 100,
+          "spa": 30,
+          "spd": 30,
+          "spe": 20
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "nosepass",
         "level": "17",
         "moves": [
           {
@@ -75,22 +77,21 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "299",
         "types": [
-          "normal",
-          "ghost"
+          "rock"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 30,
+          "atk": 45,
+          "def": 135,
+          "spa": 45,
+          "spd": 90,
+          "spe": 30
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "nosepass",
         "level": "17",
         "moves": [
           {
@@ -104,18 +105,17 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "299",
         "types": [
-          "normal",
-          "ghost"
+          "rock"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 30,
+          "atk": 45,
+          "def": 135,
+          "spa": 45,
+          "spd": 90,
+          "spe": 30
         }
       }
     ]
@@ -126,7 +126,7 @@
     "img": "/leaders/rs-brawly",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "machop",
         "level": "18",
         "moves": [
           {
@@ -137,24 +137,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "66",
         "types": [
-          "normal"
+          "fighting"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 70,
+          "atk": 80,
+          "def": 50,
+          "spa": 35,
+          "spd": 35,
+          "spe": 35
         }
       },
       {
-        "name": "ditto",
+        "name": "meditite",
         "level": "18",
         "moves": [
           {
@@ -165,24 +165,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "307",
         "types": [
-          "normal"
+          "fighting",
+          "psychic"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 30,
+          "atk": 40,
+          "def": 55,
+          "spa": 40,
+          "spd": 55,
+          "spe": 60
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "makuhita",
         "level": "21",
         "moves": [
           {
@@ -196,22 +197,21 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "296",
         "types": [
-          "normal",
-          "ghost"
+          "fighting"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 72,
+          "atk": 60,
+          "def": 30,
+          "spa": 20,
+          "spd": 30,
+          "spe": 25
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "makuhita",
         "level": "21",
         "moves": [
           {
@@ -225,18 +225,17 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "296",
         "types": [
-          "normal",
-          "ghost"
+          "fighting"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 72,
+          "atk": 60,
+          "def": 30,
+          "spa": 20,
+          "spd": 30,
+          "spe": 25
         }
       }
     ]
@@ -247,7 +246,7 @@
     "img": "/leaders/rs-wattson",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "voltorb",
         "level": "22",
         "moves": [
           {
@@ -258,24 +257,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "100",
         "types": [
-          "normal"
+          "electric"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 40,
+          "atk": 30,
+          "def": 50,
+          "spa": 55,
+          "spd": 55,
+          "spe": 100
         }
       },
       {
-        "name": "ditto",
+        "name": "electrike",
         "level": "22",
         "moves": [
           {
@@ -286,24 +285,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "309",
         "types": [
-          "normal"
+          "electric"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 40,
+          "atk": 45,
+          "def": 40,
+          "spa": 65,
+          "spd": 40,
+          "spe": 65
         }
       },
       {
-        "name": "ditto",
+        "name": "magneton",
         "level": "24",
         "moves": [
           {
@@ -314,24 +313,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "82",
         "types": [
-          "normal"
+          "electric",
+          "steel"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 50,
+          "atk": 60,
+          "def": 95,
+          "spa": 120,
+          "spd": 70,
+          "spe": 70
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "manectric",
         "level": "26",
         "moves": [
           {
@@ -345,22 +345,21 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "310",
         "types": [
-          "normal",
-          "ghost"
+          "electric"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
+          "hp": 70,
+          "atk": 75,
           "def": 60,
-          "spa": 125,
+          "spa": 105,
           "spd": 60,
-          "spe": 110
+          "spe": 105
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "manectric",
         "level": "26",
         "moves": [
           {
@@ -374,18 +373,17 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "310",
         "types": [
-          "normal",
-          "ghost"
+          "electric"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
+          "hp": 70,
+          "atk": 75,
           "def": 60,
-          "spa": 125,
+          "spa": 105,
           "spd": 60,
-          "spe": 110
+          "spe": 105
         }
       }
     ]
@@ -396,7 +394,7 @@
     "img": "/leaders/rs-flannery",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "numel",
         "level": "26",
         "moves": [
           {
@@ -407,24 +405,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "322",
         "types": [
-          "normal"
+          "fire",
+          "ground"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 60,
+          "atk": 60,
+          "def": 40,
+          "spa": 65,
+          "spd": 45,
+          "spe": 35
         }
       },
       {
-        "name": "ditto",
+        "name": "slugma",
         "level": "26",
         "moves": [
           {
@@ -435,24 +434,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "218",
         "types": [
-          "normal"
+          "fire"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 40,
+          "atk": 40,
+          "def": 40,
+          "spa": 70,
+          "spd": 40,
+          "spe": 20
         }
       },
       {
-        "name": "ditto",
+        "name": "camerupt",
         "level": "29",
         "moves": [
           {
@@ -463,24 +462,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "323",
         "types": [
-          "normal"
+          "fire",
+          "ground"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 70,
+          "atk": 100,
+          "def": 70,
+          "spa": 105,
+          "spd": 75,
+          "spe": 40
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "torkoal",
         "level": "32",
         "moves": [
           {
@@ -494,22 +494,21 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "324",
         "types": [
-          "normal",
-          "ghost"
+          "fire"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 70,
+          "atk": 85,
+          "def": 140,
+          "spa": 85,
+          "spd": 70,
+          "spe": 20
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "torkoal",
         "level": "32",
         "moves": [
           {
@@ -523,18 +522,17 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "324",
         "types": [
-          "normal",
-          "ghost"
+          "fire"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 70,
+          "atk": 85,
+          "def": 140,
+          "spa": 85,
+          "spd": 70,
+          "spe": 20
         }
       }
     ]
@@ -545,7 +543,7 @@
     "img": "/leaders/rs-norman",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "spinda",
         "level": "30",
         "moves": [
           {
@@ -556,24 +554,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "327",
         "types": [
           "normal"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 60,
+          "atk": 60,
+          "def": 60,
+          "spa": 60,
+          "spd": 60,
+          "spe": 60
         }
       },
       {
-        "name": "ditto",
+        "name": "vigoroth",
         "level": "30",
         "moves": [
           {
@@ -584,24 +582,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "288",
         "types": [
           "normal"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 80,
+          "atk": 80,
+          "def": 80,
+          "spa": 55,
+          "spd": 55,
+          "spe": 90
         }
       },
       {
-        "name": "ditto",
+        "name": "linoone",
         "level": "32",
         "moves": [
           {
@@ -612,24 +610,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "264",
         "types": [
           "normal"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 78,
+          "atk": 70,
+          "def": 61,
+          "spa": 50,
+          "spd": 61,
+          "spe": 100
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "slaking",
         "level": "34",
         "moves": [
           {
@@ -643,22 +641,21 @@
           "name": "Truant",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "289",
         "types": [
-          "normal",
-          "ghost"
+          "normal"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 150,
+          "atk": 160,
+          "def": 100,
+          "spa": 95,
+          "spd": 65,
+          "spe": 100
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "slaking",
         "level": "34",
         "moves": [
           {
@@ -672,18 +669,17 @@
           "name": "Truant",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "289",
         "types": [
-          "normal",
-          "ghost"
+          "normal"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 150,
+          "atk": 160,
+          "def": 100,
+          "spa": 95,
+          "spd": 65,
+          "spe": 100
         }
       }
     ]
@@ -694,7 +690,7 @@
     "img": "/leaders/rs-winona",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "swablu",
         "level": "32",
         "moves": [
           {
@@ -705,24 +701,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "333",
         "types": [
-          "normal"
+          "normal",
+          "flying"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 45,
+          "atk": 40,
+          "def": 60,
+          "spa": 40,
+          "spd": 75,
+          "spe": 50
         }
       },
       {
-        "name": "ditto",
+        "name": "tropius",
         "level": "32",
         "moves": [
           {
@@ -733,24 +730,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "357",
         "types": [
-          "normal"
+          "grass",
+          "flying"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 99,
+          "atk": 68,
+          "def": 83,
+          "spa": 72,
+          "spd": 87,
+          "spe": 51
         }
       },
       {
-        "name": "ditto",
+        "name": "pelipper",
         "level": "33",
         "moves": [
           {
@@ -761,24 +759,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "279",
         "types": [
-          "normal"
+          "water",
+          "flying"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 60,
+          "atk": 50,
+          "def": 100,
+          "spa": 95,
+          "spd": 70,
+          "spe": 65
         }
       },
       {
-        "name": "ditto",
+        "name": "skarmory",
         "level": "34",
         "moves": [
           {
@@ -789,24 +788,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "227",
         "types": [
-          "normal"
+          "steel",
+          "flying"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 65,
+          "atk": 80,
+          "def": 140,
+          "spa": 40,
+          "spd": 70,
+          "spe": 70
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "altaria",
         "level": "36",
         "moves": [
           {
@@ -820,22 +820,22 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "334",
         "types": [
-          "normal",
-          "ghost"
+          "dragon",
+          "flying"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 75,
+          "atk": 70,
+          "def": 90,
+          "spa": 70,
+          "spd": 105,
+          "spe": 80
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "altaria",
         "level": "36",
         "moves": [
           {
@@ -849,18 +849,18 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "334",
         "types": [
-          "normal",
-          "ghost"
+          "dragon",
+          "flying"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 75,
+          "atk": 70,
+          "def": 90,
+          "spa": 70,
+          "spd": 105,
+          "spe": 80
         }
       }
     ]
@@ -871,7 +871,7 @@
     "img": "/leaders/rs-tate-liza",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "claydol",
         "level": "45",
         "moves": [
           {
@@ -882,24 +882,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "344",
         "types": [
-          "normal"
+          "ground",
+          "psychic"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 60,
+          "atk": 70,
+          "def": 105,
+          "spa": 70,
+          "spd": 120,
+          "spe": 75
         }
       },
       {
-        "name": "ditto",
+        "name": "xatu",
         "level": "45",
         "moves": [
           {
@@ -910,24 +911,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "178",
         "types": [
-          "normal"
+          "psychic",
+          "flying"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 65,
+          "atk": 75,
+          "def": 70,
+          "spa": 95,
+          "spd": 70,
+          "spe": 95
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "lunatone",
         "level": "46",
         "moves": [
           {
@@ -941,22 +943,22 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "337",
         "types": [
-          "normal",
-          "ghost"
+          "rock",
+          "psychic"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 90,
+          "atk": 55,
+          "def": 65,
+          "spa": 95,
+          "spd": 85,
+          "spe": 70
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "solrock",
         "level": "46",
         "moves": [
           {
@@ -970,22 +972,22 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "338",
         "types": [
-          "normal",
-          "ghost"
+          "rock",
+          "psychic"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 90,
+          "atk": 95,
+          "def": 85,
+          "spa": 55,
+          "spd": 65,
+          "spe": 70
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "solrock",
         "level": "46",
         "moves": [
           {
@@ -999,18 +1001,18 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "338",
         "types": [
-          "normal",
-          "ghost"
+          "rock",
+          "psychic"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 90,
+          "atk": 95,
+          "def": 85,
+          "spa": 55,
+          "spd": 65,
+          "spe": 70
         }
       }
     ],
@@ -1022,7 +1024,7 @@
     "img": "/leaders/rs-juan",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "luvdisc",
         "level": "45",
         "moves": [
           {
@@ -1033,24 +1035,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "370",
         "types": [
-          "normal"
+          "water"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 43,
+          "atk": 30,
+          "def": 55,
+          "spa": 40,
+          "spd": 65,
+          "spe": 97
         }
       },
       {
-        "name": "ditto",
+        "name": "whiscash",
         "level": "45",
         "moves": [
           {
@@ -1061,24 +1063,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "340",
         "types": [
-          "normal"
+          "water",
+          "ground"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 110,
+          "atk": 78,
+          "def": 73,
+          "spa": 76,
+          "spd": 71,
+          "spe": 60
         }
       },
       {
-        "name": "ditto",
+        "name": "sealeo",
         "level": "47",
         "moves": [
           {
@@ -1089,24 +1092,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "364",
         "types": [
-          "normal"
+          "ice",
+          "water"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 90,
+          "atk": 60,
+          "def": 70,
+          "spa": 75,
+          "spd": 70,
+          "spe": 45
         }
       },
       {
-        "name": "ditto",
+        "name": "crawdaunt",
         "level": "47",
         "moves": [
           {
@@ -1117,24 +1121,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "342",
         "types": [
-          "normal"
+          "water",
+          "dark"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 63,
+          "atk": 120,
+          "def": 85,
+          "spa": 90,
+          "spd": 55,
+          "spe": 55
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "kingdra",
         "level": "51",
         "moves": [
           {
@@ -1148,22 +1153,22 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "230",
         "types": [
-          "normal",
-          "ghost"
+          "water",
+          "dragon"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 75,
+          "atk": 95,
+          "def": 95,
+          "spa": 95,
+          "spd": 95,
+          "spe": 85
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "kingdra",
         "level": "51",
         "moves": [
           {
@@ -1177,18 +1182,18 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "230",
         "types": [
-          "normal",
-          "ghost"
+          "water",
+          "dragon"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 75,
+          "atk": 95,
+          "def": 95,
+          "spa": 95,
+          "spd": 95,
+          "spe": 85
         }
       }
     ]
@@ -4688,7 +4693,7 @@
     "img": "/leaders/rs-wallace",
     "pokemon": [
       {
-        "name": "ditto",
+        "name": "wailord",
         "level": "63",
         "moves": [
           {
@@ -4699,24 +4704,24 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "321",
         "types": [
-          "normal"
+          "water"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 170,
+          "atk": 90,
+          "def": 45,
+          "spa": 90,
+          "spd": 45,
+          "spe": 60
         }
       },
       {
-        "name": "ditto",
+        "name": "tentacruel",
         "level": "61",
         "moves": [
           {
@@ -4727,24 +4732,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "73",
         "types": [
-          "normal"
+          "water",
+          "poison"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 80,
+          "atk": 70,
+          "def": 65,
+          "spa": 80,
+          "spd": 120,
+          "spe": 100
         }
       },
       {
-        "name": "ditto",
+        "name": "ludicolo",
         "level": "62",
         "moves": [
           {
@@ -4755,24 +4761,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "272",
         "types": [
-          "normal"
+          "water",
+          "grass"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 80,
+          "atk": 70,
+          "def": 70,
+          "spa": 90,
+          "spd": 100,
+          "spe": 70
         }
       },
       {
-        "name": "ditto",
+        "name": "whiscash",
         "level": "62",
         "moves": [
           {
@@ -4783,24 +4790,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "340",
         "types": [
-          "normal"
+          "water",
+          "ground"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 110,
+          "atk": 78,
+          "def": 73,
+          "spa": 76,
+          "spd": 71,
+          "spe": 60
         }
       },
       {
-        "name": "ditto",
+        "name": "gyarados",
         "level": "62",
         "moves": [
           {
@@ -4811,24 +4819,25 @@
           }
         ],
         "ability": {
-          "name": "Imposter",
+          "name": "Illusion",
           "effect": ""
         },
-        "sprite": "132",
+        "sprite": "130",
         "types": [
-          "normal"
+          "water",
+          "flying"
         ],
         "stats": {
-          "hp": 48,
-          "atk": 48,
-          "def": 48,
-          "spa": 48,
-          "spd": 48,
-          "spe": 48
+          "hp": 95,
+          "atk": 125,
+          "def": 79,
+          "spa": 60,
+          "spd": 100,
+          "spe": 81
         }
       },
       {
-        "name": "zoroark-hisui",
+        "name": "milotic",
         "level": "64",
         "moves": [
           {
@@ -4842,18 +4851,17 @@
           "name": "Illusion",
           "effect": ""
         },
-        "sprite": "10239",
+        "sprite": "350",
         "types": [
-          "normal",
-          "ghost"
+          "water"
         ],
         "stats": {
-          "hp": 55,
-          "atk": 100,
-          "def": 60,
-          "spa": 125,
-          "spd": 60,
-          "spe": 110
+          "hp": 95,
+          "atk": 60,
+          "def": 79,
+          "spa": 100,
+          "spd": 125,
+          "spe": 81
         }
       }
     ]
